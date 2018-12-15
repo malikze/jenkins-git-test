@@ -7,6 +7,7 @@ public class Main {
             System.out.println("Hello Elin");
             System.out.println("Hello Tural");
             System.out.println("Hello Mahira");
+            System.out.println("Hello Fidan");
         }
     }
 }
